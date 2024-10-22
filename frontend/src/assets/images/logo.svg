@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 300 100">
+    <style>
+        .cursive {
+            font-family: "Brush Script MT", cursive;
+            font-size: 76px;
+            fill: #00BFFF;
+            font-style: italic;
+        }
+    </style>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="cursive">
+        Travel memories
+    </text>
+</svg>
